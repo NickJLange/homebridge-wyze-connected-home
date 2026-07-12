@@ -1,6 +1,6 @@
 {
   "name": "homebridge-wyze-connected-home",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Wyze Connected Home plugin for Homebridge",
   "license": "MIT",
   "main": "src/index.js",
@@ -23,7 +23,7 @@
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.31.1",
     "md5": "^2.2.1"
   },
   "devDependencies": {
