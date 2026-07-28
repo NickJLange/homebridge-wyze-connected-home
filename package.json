@@ -5,7 +5,7 @@
   "license": "MIT",
   "main": "src/index.js",
   "scripts": {
-    "lint": "yarn eslint */**/*.{js,ts,tsx} --quiet --fix"
+    "lint": "eslint src/ --quiet --fix"
   },
   "keywords": [
     "homebridge-plugin"
